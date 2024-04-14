@@ -4,10 +4,10 @@ import datetime
 import pytz
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "api-key"
 
 # Set your OpenWeatherMap API key and base URL
-weather_api_key = "ec7fc037a43e0aad572b327f18c8d66a"
+weather_api_key = "api-key"
 weather_base_url = "https://api.openweathermap.org/data/2.5/weather"
 
 def display_current_date():
