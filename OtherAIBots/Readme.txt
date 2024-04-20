@@ -1,0 +1,1 @@
+These are the simple python cli bots, that use general API of OpenAI to generate text, time, data and weather or temperature of a particular region.
